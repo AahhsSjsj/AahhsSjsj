@@ -1,5 +1,5 @@
 <details> 
-<summary align="left">Hola :smirk: :hamburger:</summary>
+<summary align="left">Abreme b)</summary>
 <pre>
 - 👋 Hola yo soy @Jennifer7w7
 - 👀 Estoy interesada en ...
