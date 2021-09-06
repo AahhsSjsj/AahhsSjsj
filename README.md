@@ -20,7 +20,7 @@ const Jenn = {
     CreatedAt: "Mar 17 de septiembre de 2019 00:56:31 GMT + 0000 (Hora universal coordinada)",
     Stars: 8,
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
-}; //I'm a Epic Object. UwU
+};
 ```
 <hr>
 <div>
