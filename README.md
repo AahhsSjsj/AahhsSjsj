@@ -12,13 +12,13 @@ const Jenn = {
     FavouriteLanguage: "Javascript/Typescript",
     OpenedIssues: 59,
     OpenedPullRequests: 47,
-    TotalCommits: 371 ,
+    TotalCommits: 389,
     Repositories: {
        Created: 8,
        Contributed: 1
     },
     CreatedAt: "Mar 17 de septiembre de 2019 00:56:31 GMT + 0000 (Hora universal coordinada)",
-    Stars: 8,
+    Stars: 28,
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet"]
 };
 ```
