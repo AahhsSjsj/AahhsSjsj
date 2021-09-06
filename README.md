@@ -9,10 +9,10 @@
     - I am also a YouTuber XD, make sure to sub ;-;
 -->
     
-<h1 align="center">Who am I?</h1>
-<p align="center">Hello I'm Sudhan. I use typescript to code and there is nothing so special about me...</p>
+<h1 align="center">¿Quién soy?</h1>
+<p align="center">Hola, soy Jenn. Uso mecanografiado para codificar y no hay nada tan especial en mí ...</p>
 
-## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
+## Hola, soy Jenni<img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
 ```js
 const Jenn = {
