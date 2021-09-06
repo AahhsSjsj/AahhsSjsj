@@ -46,7 +46,6 @@ No hay actividad registrada esta semana
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jennifer7w7&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennifer7w7&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jennifer7w7&theme=tokyonight">
 </details>
-<!-- Last updated on Mon Sep 06 2021 05:12:53 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Última actualización el 6 de septiembre de 2021 usando magia</i> ✨
 
   
