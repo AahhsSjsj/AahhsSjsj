@@ -39,9 +39,9 @@ const Jenn = {
 
 ## Stats
 <hr>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jennifer7w7&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-261-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-14-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-1284-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Jennifer7w7&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-261-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-14-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-1284-blueviolet)
 
 Algunas de mis estadísticas de codificación épicas aquí que estaba haciendo esta semana
 <!--START_SECTION:waka-->
@@ -51,12 +51,12 @@ No hay actividad registrada esta semana
 <!--END_SECTION:waka-->
 
 <details>
-    <summary><b>GitHub</b> Activity</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+    <summary><b>Actividad</b> De GitHub</summary>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jennifer7w7&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennifer7w7&theme=tokyonight&hide=batchfile">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jennifer7w7&theme=tokyonight">
 </details>
 <!-- Last updated on Mon Sep 06 2021 05:12:53 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 6th September 2021 using magic</i> ✨
+<i>Última actualización el 6 de septiembre de 2021 usando magia</i> ✨
 
   
 [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennifer7w7&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
