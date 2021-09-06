@@ -32,7 +32,7 @@ const Jenn = {
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jennifer7w7&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jennifer7w7&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-261-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-14-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-1284-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Jennifer7w7&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-1-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-3-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-28-blueviolet)
 
 Algunas de mis estadísticas de codificación épicas aquí que estaba haciendo esta semana
 <!--START_SECTION:waka-->
