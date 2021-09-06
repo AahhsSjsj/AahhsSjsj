@@ -1,13 +1,4 @@
-<!-- You found this secret 👏 -->
-<!--
-    My secret things lol
-    
-    - I code more hours 
-    - I am a gamer too 
-    - I play minecraft, roblox, AMOUNG US ;-;
-    - This readme.md is created using GitHub Codespaces 👀
-    - I am also a YouTuber XD, make sure to sub ;-;
--->
+<!-- Encontraste este secreto 👏 -->
     
 <h1 align="center">¿Quién soy?</h1>
 <p align="center">Hola, soy Jenn. Uso mecanografiado para codificar y no hay nada tan especial en mí ...</p>
@@ -27,7 +18,7 @@ const Jenn = {
        Contributed: 1
     },
     CreatedAt: "Mar 17 de septiembre de 2019 00:56:31 GMT + 0000 (Hora universal coordinada)",
-    Stars: 1284,
+    Stars: 8,
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
 }; //I'm a Epic Object. UwU
 ```
