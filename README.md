@@ -3,7 +3,7 @@
 <h1 align="center">¿Quién soy?</h1>
 <p align="center">Hola, soy Jenn. Uso mecanografiado para codificar y no hay nada tan especial en mí ...</p>
 
-## Hola, soy Jenni<img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
+## Hola, soy Jenni<img src="https://media.discordapp.net/attachments/874198640145616916/884625292646309959/WaveIcon.gif" width="30px">
 
 ```js
 const Jenn = {
