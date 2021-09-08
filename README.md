@@ -18,8 +18,10 @@
   <a href="https://github.com/Jennifer7w7" target="_blank">
     <img align ="left" alt="FiredragonPlayz's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-
+![]()
 <br/>
+
+<!-- ![Discord](https://discord.c99.nl/widget/theme-3/849662181585715211.png) -->
 
 <a href="https://discord.com/users/849662181585715211">
 <img src="https://discord.c99.nl/widget/theme-3/849662181585715211.png" alt="Discord"/>
