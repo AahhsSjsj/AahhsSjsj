@@ -10,13 +10,13 @@
     <img align ="left" alt="Jennifers's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
   <a href="https://twitter.com/Jennife72011804" target="_blank">
-    <img align ="left" alt="FiredragonPlayz's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align ="left" alt="Jennifer's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="https://youtube.com/c/unknown bom" target="_blank">
-    <img align ="left" alt="FiredragonPlayz's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+    <img align ="left" alt="Jennifer's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
   </a>
-  <a href="https://github.com/Jennifer7w7" target="_blank">
-    <img align ="left" alt="FiredragonPlayz's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://github.com/AahhsSjsj" target="_blank">
+    <img align ="left" alt="Jennifer's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   
 
@@ -56,9 +56,9 @@ const Jenn = {
 
 ## Stats
 <hr>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jennifer7w7&theme=dracula"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AahhsSjsj&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jennifer7w7&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-1-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-3-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-28-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=AahhsSjsj&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-1-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-3-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-28-blueviolet)
 
 Algunas de mis estadísticas de codificación épicas aquí que estaba haciendo esta semana
 <!--START_SECTION:waka-->
@@ -69,17 +69,17 @@ No hay actividad registrada esta semana
 
 <details>
     <summary><b>Actividad</b> De GitHub</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jennifer7w7&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennifer7w7&theme=tokyonight&hide=batchfile">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jennifer7w7&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=AahhsSjsj&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AahhsSjsj&theme=tokyonight&hide=batchfile">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AahhsSjsj&theme=tokyonight">
 </details>
 <i>Última actualización el 6 de septiembre de 2021 usando magia</i> ✨
 
   
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennifer7w7&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=AahhsSjsj&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Jennifer7w7)
+![Profile View Counter](https://komarev.com/ghpvc/?username=AahhsSjsj)
 
 
 
 <!---
-Jennifer7w7/Jennifer7w7 es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en su perfil de GitHub. 9 Puede hacer clic en el enlace Vista previa para ver los cambios. 10 --->
+AahhsSjsj/AahhsSjsj es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en su perfil de GitHub. 9 Puede hacer clic en el enlace Vista previa para ver los cambios. 10 --->
