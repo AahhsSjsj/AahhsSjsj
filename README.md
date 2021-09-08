@@ -21,7 +21,7 @@
 
 <br/>
 
-<a href="https://discord.com/users/725945760629129277">
+<a href="https://discord.com/users/849662181585715211">
 <img src="https://discord.c99.nl/widget/theme-3/725945760629129277.png" alt="Discord"/>
 </a>
 
