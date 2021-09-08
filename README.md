@@ -5,6 +5,23 @@
 
 ## Hola, soy Jenni<img src="https://media.discordapp.net/attachments/874198640145616916/884625292646309959/WaveIcon.gif" width="30px">
 
+<br/>
+<a href="https://discord.com/users/849662181585715211" target="_blank" >
+    <img align ="left" alt="Jennifers's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+  <a href="https://twitter.com/Jennife72011804" target="_blank">
+    <img align ="left" alt="FiredragonPlayz's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://youtube.com/c/unknown bom" target="_blank">
+    <img align ="left" alt="FiredragonPlayz's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  </a>
+  <a href="https://github.com/Jennifer7w7" target="_blank">
+    <img align ="left" alt="FiredragonPlayz's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+
+![]()
+
+<br/>
 ```js
 const Jenn = {
     Años: 17,
@@ -52,6 +69,8 @@ No hay actividad registrada esta semana
 [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennifer7w7&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Jennifer7w7)
+
+
 
 <!---
 Jennifer7w7/Jennifer7w7 es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en su perfil de GitHub. 9 Puede hacer clic en el enlace Vista previa para ver los cambios. 10 --->
