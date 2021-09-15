@@ -6,7 +6,7 @@
 ## Hola, soy Jenni<img src="https://media.discordapp.net/attachments/874198640145616916/884625292646309959/WaveIcon.gif" width="30px">
 
 <br/>
-<a href="https://discord.com/users/849662181585715211" target="_blank" >
+<a href="https://discord.com/users/804826341471420417" target="_blank" >
     <img align ="left" alt="Jennifers's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
   <a href="https://twitter.com/Jennife72011804" target="_blank">
@@ -24,8 +24,12 @@
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/849662181585715211.png) -->
 
+<a href="https://discord.com/users/804826341471420417">
+<img src="https://discord.c99.nl/widget/theme-3/804826341471420417.png" alt="Principal Account Discord"/>
+</a>
+
 <a href="https://discord.com/users/849662181585715211">
-<img src="https://discord.c99.nl/widget/theme-3/849662181585715211.png" alt="Discord"/>
+<img src="https://discord.c99.nl/widget/theme-3/849662181585715211.png" alt="Multi Account Discord"/>
 </a>
 
 # Sobre mi?
