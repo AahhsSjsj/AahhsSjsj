@@ -1,22 +1,22 @@
 <!-- Encontraste este secreto 👏 -->
     
 <h1 align="center">¿Quién soy?</h1>
-<p align="center">Hola, soy Jenn. Uso mecanografiado para codificar y no hay nada tan especial en mí ...</p>
+<p align="center">Hola, soy AahhsJsj. Uso mecanografiado para codificar y no hay nada tan especial en mí ...</p>
 
-## Hola, soy Jenni<img src="https://media.discordapp.net/attachments/874198640145616916/884625292646309959/WaveIcon.gif" width="30px">
+## Hola, soy AahhsJsj<img src="https://media.discordapp.net/attachments/874198640145616916/884625292646309959/WaveIcon.gif" width="30px">
 
 <br/>
-<a href="https://discord.com/users/804826341471420417" target="_blank" >
-    <img align="centre" alt="Jennifers's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://discord.com/users/807706942961090610" target="_blank" >
+    <img align="centre" alt="AahhsJsj's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-  <a href="https://twitter.com/Jennife72011804" target="_blank">
-    <img align="centre" alt="Jennifer's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <a href="https://twitter.com/AahhsJsj" target="_blank">
+    <img align="centre" alt="AahhsJsj's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="https://youtube.com/c/unknown bom" target="_blank">
-    <img align="centre" alt="Jennifer's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+    <img align="centre" alt="AahhsJsj's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
   </a>
   <a href="https://github.com/AahhsSjsj" target="_blank">
-    <img align="centre" alt="Jennifer's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img align="centre" alt="AahhsJsj's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 <br/>
 
